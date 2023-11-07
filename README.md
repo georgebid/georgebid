@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-she/her
-Junior BE Developer @ true in Bristol. Mainly working in C# & Typescript, using Playwright & Umbraco.
+- I'm a Junior BE Developer @ true in Bristol. Predominantly working in C# & Typescript, using Playwright & Umbraco.
+- I'm also part of the Umbraco Core Collaborators community team.
 
 [![An image of @georgebid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/georgebid)](https://holopin.io/@georgebid)
 
